@@ -5,7 +5,7 @@
 </h1>
 
 ## 🔎️ Description
-Simple Node.js application to GraphQL's basic functionalities.
+Simple Node.js application to test GraphQL's basic functionalities.
 
 ## 🚀️ Technologies
 
